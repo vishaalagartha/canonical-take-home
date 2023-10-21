@@ -1,0 +1,23 @@
+.card {
+  border-top: solid 4px purple;
+  box-shadow: 0px 0px 3px 1px grey;
+  height: 500px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+.card-image {
+  padding: 10px;
+}
+
+.card-header {
+  color: rgb(0, 102, 204);
+  font-weight: 300;
+}
+
+.card-author {
+  font-size: 20px;
+  font-style: italic;
+  font-weight: 300;
+}
