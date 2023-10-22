@@ -21,6 +21,10 @@ Each card renders the following content:
 
 ## How to run and build
 
+## Installation
+
+To install, go inside the root directory that contains the `package.json` and run `npm install`. This will install the necessary dependencies in the `node_modules` directory.
+
 In the project directory, you can run:
 
 ### `npm start`
